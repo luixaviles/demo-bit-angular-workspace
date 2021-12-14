@@ -1,0 +1,20 @@
+:host {
+  display: block;
+}
+.demo-button {
+  background-color: #008cba;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 15px 32px;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.demo-button:hover {
+  background-color: #aaaaaa;
+}
+.demo-button:active {
+  background-color: #727c7f;
+  color: #fff;
+}
