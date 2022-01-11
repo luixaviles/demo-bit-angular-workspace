@@ -11,7 +11,7 @@
 {
     "ui/demo-button": {
         "scope": "luixaviles.demo-angular",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-button"
     },
@@ -38,6 +38,12 @@
         "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-card-title"
+    },
+    "ui/demo-theme": {
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
+        "mainFile": "public-api.ts",
+        "rootDir": "demo-angular/ui/demo-theme"
     },
     "$schema-version": "14.9.0"
 }

@@ -1,0 +1,19 @@
+:host {
+  font-size: inherit;
+}
+
+.dark {
+  button {
+    background-color: rgb(75, 75, 75);
+    color: rgb(212, 212, 212);
+  }
+
+  button:hover {
+    background-color: rgb(102, 101, 101);
+  }
+
+  button:active {
+    background-color: rgb(121, 120, 120);
+    color: rgb(212, 212, 212);
+  }
+}
