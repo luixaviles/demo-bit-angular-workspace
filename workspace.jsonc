@@ -39,7 +39,15 @@
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
       "dependencies": {},
-      "peerDependencies": {}
+      "peerDependencies": {
+        "@angular/core": ">=10.0.0",
+        "@angular/platform-browser-dynamic": ">=10.0.0",
+        "graphql": "14.x || 15.x",
+        "react": "16.13.1",
+        "react-dom": "16.13.1",
+        "typescript": ">=4.4.2 <4.5.0",
+        "rxjs": "7.4.0"
+      }
     }
   },
   /**

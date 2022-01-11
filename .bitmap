@@ -10,32 +10,32 @@
 
 {
     "ui/demo-button": {
-        "scope": "",
-        "version": "",
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-button"
     },
     "ui/demo-card": {
-        "scope": "",
-        "version": "",
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-card"
     },
     "ui/demo-card-actions": {
-        "scope": "",
-        "version": "",
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-card-actions"
     },
     "ui/demo-card-content": {
-        "scope": "",
-        "version": "",
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-card-content"
     },
     "ui/demo-card-title": {
-        "scope": "",
-        "version": "",
+        "scope": "luixaviles.demo-angular",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "scope/ui/demo-card-title"
     },
